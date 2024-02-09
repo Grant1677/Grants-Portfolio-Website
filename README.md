@@ -1,4 +1,4 @@
-# Grants Portfolio Website
+# Grant's Portfolio Website
 
 ### Table of Contents
 
